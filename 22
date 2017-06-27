@@ -1,0 +1,18 @@
+print=prints what ever is written within "".
++,-,*,/,%,<,> = addition,substraction,multiplication,division,modulus,less than,greater than
+Asigning name to variables(string and integers)
+%d,%s,%r = integer, String, reference to a string.
+/t,/n = inserts a tab, goes to the next line.
+// = inserts a /
+raw_input, input = takes input from user
+import = takes input while execution
+open =opens a txt file
+XX.read()= reads a txt file
+file_again= changes the name of txt file
+target.truncate()= opens up a txt file and read
+target.write(line no.) = prints a single line of txt file
+target.close() = close a txt file
+out_file.write(indata) = writes in a txt file
+in_file.read()= reads a txt file
+f.seek(0)= rewinds the txt file to the first line
+
